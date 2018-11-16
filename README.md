@@ -2,9 +2,7 @@
 
 Stock News is a simple web application for analysis of stocks and news.
 
-It is built mainly with JavaScript, JQeury, Canvas, and BootStrap.
-
-
+It is built mainly with JavaScript, jQuery, Canvas, and BootStrap.
 It integrates the following APIs:
 + Markit on Demand (for stock data): http://dev.markitondemand.com/MODApis/
 + New York Times Article Search API (for news articles): http://developer.nytimes.com/docs/read/article_search_api_v2
